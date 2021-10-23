@@ -1,8 +1,8 @@
 const CONFIGURATION = {
     iceServers: [{
-        url: 'turn:relay.backups.cz?transport=tcp',
-        credential: 'webrtc',
-        username: 'webrtc'
+        url: 'turn:18.191.51.138',
+        credential: 'ninefingers',
+        username: 'youhavetoberealistic'
     }, {
         urls: [
             'stun:stun01.sipphone.com'
